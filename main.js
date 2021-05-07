@@ -1,11 +1,11 @@
 const results = document.querySelector('#results');
+const button = document.querySelector('input');
 
 async function asyncFetch(value) {
     const res = await fetch(`https://swapi.dev/api/${value}/`);
     const data = await res.json();
     displayResults(data, value);
 }
-
 
 function displayResults(data, value) {
     let output = "";
