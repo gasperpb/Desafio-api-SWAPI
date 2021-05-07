@@ -8,3 +8,13 @@ O Front básico está no pdf acima e o link para a a api igualmente. Entrega at�
 ## Modelo em PDF.
 [ModeloTelas.pdf](https://github.com/gasperpb/Desafio-api-SWAPI/files/6423669/ModeloTelas.pdf)
 
+## Tarefas
+
+O controle das tarefas desse projeto será realizado no GitHub
+
+## Ícones
+
+- :package: Nova Funcionalidade
+- :up: Atualização
+- :beetle: Correção de Bug
+- :checkered_flag: Release
